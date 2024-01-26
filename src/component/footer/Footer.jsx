@@ -22,12 +22,7 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur.
+            🎬 Dive into a world of cinematic brilliance at Live Movies. Discover the latest blockbuster movies and trending TV shows, all meticulously curated for your entertainment. From heartwarming dramas to pulse-pounding action, find your next obsession on our sleek and user-friendly platform. Elevate your streaming experience with us where every click unlocks a new adventure. Join us at Live Movies and let the movie magic begin! 🍿✨ <br/>Kings World Live Movie
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
@@ -44,6 +39,7 @@ const Footer = () => {
                     </span>
                 </div>
             </ContentWrapper>
+            
         </footer>
     );
 };
